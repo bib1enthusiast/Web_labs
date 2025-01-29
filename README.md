@@ -1,1 +1,1 @@
-# 932101.Pshonkin.Vadim.lab№1
+# Povshednyy_Daniil_932203_lab1
