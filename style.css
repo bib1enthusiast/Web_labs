@@ -1,0 +1,173 @@
+
+body {
+    font-family: "Arial";
+}
+
+.header_block {
+    font-weight: lighter;
+    padding: 0.1px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.main_block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background-color: blue;
+    color: white;
+    padding: 0.5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 17px;
+}
+
+#ugolkrug{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width:80px;
+    height:80px;
+    border: 5px white solid;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 5px;
+}
+
+a {
+    color: red;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    word-spacing: 10px;
+    margin: 0;
+}
+
+ul {
+    padding-left: 35px;
+    margin-top: 5px;
+    margin-bottom: 1em;
+    line-height: 1.8;
+    font-size: 15px;
+}
+
+ul li:nth-child(2) {
+    color:rgb(28, 170, 214);
+    letter-spacing: 5px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.Italic {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-style: italic;
+    
+}
+
+.Bold {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.UnderLined {
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-decoration: underline;
+
+}
+
+.LineThrough {
+    text-decoration: line-through;
+}
+
+#calculation{
+    flex-basis: 0;
+    flex-grow: 1;
+    float: right;
+    width:120px;
+    height:94px;
+    border: 1px white solid;
+    padding: 3px;
+    align-items: center;
+}
+
+#one{
+    float:left;
+    background-color: green;
+    width:38px;
+    height:60px;
+    border: 1px white solid;
+    margin-right: 0;
+    text-align: center;
+}
+#two{
+    margin-right: 3px;
+    float:right;
+    width:35px;
+    height:27px;
+    border: 1px white solid;
+    text-align: center;
+}
+
+#three{
+    float:right;
+    width:35px;
+    height:27px;
+    border: 1px white solid;
+    text-align: center;
+}
+
+#four {
+    margin-right: 3px;
+    margin-top: 3px;
+    float:right;
+    width:35px;
+    height:27px;
+    border: 1px white solid;
+    margin-bottom: 4px;
+    text-align: center;
+}
+
+#five {
+    margin-top: 3px;
+    float:right;
+    width:35px;
+    height:27px;
+    border: 1px white solid;
+    text-align: center;
+}
+
+#six {
+    margin-top: 3px;
+    float:left;
+    width:38px;
+    height:27px;
+    border: 1px white solid;
+    text-align: center;
+}
+
+#seven {
+    background-color: orangered;
+    float:right;
+    width:75px;
+    height:27px;
+    border: 1px white solid;
+    text-align: center;
+}
+
+.images {
+    float: right;
+}
